@@ -3,6 +3,7 @@
 Ay what up it's your boy young junior dev aka old intern aka amateur
 expert
 
+# Why I made it - the long short story
 I found the lyrics for Moonhead by Hymie's Basement on songmeanings.com
 but it wasn't up on RapGenius, so I decided to copy-paste them over. The
 lines weren't capitalized though, and unformatted bullshit like that
@@ -20,9 +21,9 @@ SO I learned a bit about python's cool-ass `getopt` module and made this
 little thing that a million other people have probably made better
 versions of... ENJOY!
 
-Usage:
+# Usage:
 python formatlyrics.py -i <input_filename> -o <output_filename> ...
 
-Additional options include:
+# Additional options include:
 -c             capitalize each line
 -r <chars>     removes the chars from the file
