@@ -22,8 +22,9 @@ little thing that a million other people have probably made better
 versions of... ENJOY!
 
 ## Usage:
-python formatlyrics.py -i <input_filename> -o <output_filename> ...
+`python formatlyrics.py -i <input_filename> -o <output_filename> ...`
 
 ### Additional options include:
--c             capitalize each line
--r <chars>     removes the chars from the file
+`-c`             capitalize each line
+
+`-r <chars>`     removes the chars from the file
